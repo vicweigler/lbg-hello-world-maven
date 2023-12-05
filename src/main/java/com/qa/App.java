@@ -9,10 +9,12 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("Alice"));
-        System.out.println(sayHelloToSomeone("Bob"));
-        System.out.println(sayHelloToSomeone("Charlie"));
-        System.out.println(sayHelloToSomeone("Zena"));
+        System.out.println(sayHelloToSomeone("Ruth"));
+        System.out.println(sayHelloToSomeone("Hannah"));
+        System.out.println(sayHelloToSomeone("Rebecca"));
+        System.out.println(sayHelloToSomeone("Me"));
+        System.out.println(sayHelloToSomeone("Hudson, my doggy"));
+        System.out.println(sayHelloToSomeone("I don't really want to say Goodbye now but..."));
         System.out.println(sayGoodbye());
     }
 
